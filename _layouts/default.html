@@ -17,13 +17,16 @@
         
         {% if site.logo %}
         <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" style="border:0px;"/></a>
+        <br /><br />
         {% endif %}
 
         <ul class="downloads">
           <li><a href="{{ "/" | absolute_url }}">go back<strong>Home</strong></a></li>
           <li><a href="{{ site.blog }}" target="_blank">visit my<strong>Blog</strong></a></li>
-          <li><a href="{{ "https://twitter.com/"site.twitter }}" target="_blank">ramblings on<strong>Twitter</strong></a></li>
+          <li><a href="{{ site.twitter }}" target="_blank">ramblings on<strong>Twitter</strong></a></li>
         </ul>
+
+        <img src="assets\images\learningpath_graphic.svg" style="border:0px;" />
 
         <ul class="downloads">
           <li><a href="/AZ900/">Fundamentals<strong>AZ-900</strong></a></li>

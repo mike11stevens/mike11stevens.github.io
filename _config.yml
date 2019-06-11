@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Mike Stevens
 description: stuff and things
+logo: /assets/images/2018_misteven_500px.jpg
+show_downloads: true

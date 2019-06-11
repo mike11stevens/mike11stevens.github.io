@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![AZ-900](/assets/images/fundamentals.png)
+![AZ-900](\assets\images\Fundamentals.png)
 
 # AZ-900 | Microsoft Azure Fundamentals
 

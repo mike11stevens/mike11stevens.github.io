@@ -6,6 +6,8 @@ layout: default
 
 # AZ-900 | Microsoft Azure Fundamentals
 
+<hr class="thin" />
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

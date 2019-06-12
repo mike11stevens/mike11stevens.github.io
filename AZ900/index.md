@@ -207,7 +207,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 
 ### Azure Heat Map
 
-![Azure Heat Map](/assets/images/az_heatmap.png)
+![Azure Heat Map](/assets/images/az_heatmap.PNG)
 * [Azure Heat Map]('https://azureheatmap.azurewebsites.net/') This site was developed by [Alexey Polkovnikov](https://www.linkedin.com/in/alexeypolkovnikov/), Microsoft Cloud Solution Architect
 
 ### Azure Storage Explorer

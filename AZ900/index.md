@@ -89,6 +89,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 ### Azure Storage
 
 #### AzCopy
+![AzCopy Tool](/assets/images/az_azcopy.png)
 * [Get Started with AzCopy]('https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10')
 * [azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy/releases) (GitHub)
     * [Windows]('https://aka.ms/downloadazcopy-v10-windows') (zip)
@@ -97,7 +98,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 
 #### Azure Storage Explorer
 
-![Azure Storage Explorer]('/assets/images/az_storageexplorer.png')
+![Azure Storage Explorer](/assets/images/az_storageexplorer.png)
 * [Get started with Storage Explorer]('https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows')
     * [Windows]('https://azure.microsoft.com/en-us/features/storage-explorer/')
     * [Linux]('https://azure.microsoft.com/en-us/features/storage-explorer/')

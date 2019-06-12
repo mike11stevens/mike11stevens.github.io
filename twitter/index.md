@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![twitter](\assets\images\twitter.png =75px)
+![twitter](\assets\images\twitter_150px.png)
 
 
 <hr class="thin" />

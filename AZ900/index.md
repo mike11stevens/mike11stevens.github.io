@@ -79,7 +79,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 ### PowerShell
 
 * [PowerShell Documentation]('https://docs.microsoft.com/en-us/powershell/')
-* [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core') | [aka.ms/pscore6]('https://aka.ms/pscore6')
+* [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core')  -  [aka.ms/pscore6]('https://aka.ms/pscore6')
 * [powershell/powershell]('https://github.com/PowerShell/PowerShell/releases') (GitHub)
 * [Download .NET]('https://dotnet.microsoft.com/download?utm_source=ms-docs&utm_medium=referral')
 [dotnet/core]('https://github.com/dotnet/core/releases') (GitHub)

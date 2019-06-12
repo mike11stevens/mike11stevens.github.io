@@ -33,7 +33,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 <a name="learning-path"></a>
 
 * **[Azure Fundamentals]('https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/')**
-    * [Cloud Concepts - Principles of cloud computing]('https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/index)
+    * [Cloud Concepts - Principles of cloud computing]('https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/index')
     * [Core Cloud Services - Introduction to Azure]('https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/index')
     * [Core Cloud Services - Azure architecture and service guarantees]('https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/index')
     * [Create an Azure account]('https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/index')
@@ -77,14 +77,17 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 <a name="parking-lot"></a>
 
 ### PowerShell
-
+![AzCopy Tool](/assets/images/az_powershell.png)
 * [PowerShell Documentation]('https://docs.microsoft.com/en-us/powershell/')
-* [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core')  -  [aka.ms/pscore6]('https://aka.ms/pscore6')
-* [powershell/powershell]('https://github.com/PowerShell/PowerShell/releases') (GitHub)
+* [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core')
+* [aka.ms/pscore6]('https://aka.ms/pscore6')
+* [powershell/powershell]('https://github.com/PowerShell/PowerShell#get-powershell') (GitHub)
 * [Download .NET]('https://dotnet.microsoft.com/download?utm_source=ms-docs&utm_medium=referral')
 [dotnet/core]('https://github.com/dotnet/core/releases') (GitHub)
 * ["Hey, Scripting Guy"]('https://devblogs.microsoft.com/scripting/') (Blog)
+* ["Weekend Scripter: Why Learn PowerShell?"](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/) (Post)
 * [Learn Windows PowerShell in a Month of Lunches]('https://smile.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160') (Book)
+* [Map Book for Experienced Bash users]('https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell#map-book-for-experienced-bash-users')
 
 ### Azure Storage
 

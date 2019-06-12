@@ -8,11 +8,13 @@ layout: default
 
 <hr class="thin" />
 
-[Certification](#certification)
-[Learning Path](#learning-path)
-[Training Resources](#training-resources)
-[Objectives](#objectives)
-[Parking Lot](#parking-lot)
+* [Certification](#certification)
+* [Learning Path](#learning-path)
+* [Training Resources](#training-resources)
+* [Objectives](#objectives)
+* [Parking Lot](#parking-lot)
+
+<hr class="thin" />
 
 ## Certification
 <a name="certification"></a>

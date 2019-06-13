@@ -3,8 +3,6 @@ layout: default
 course: AZ-900
 ---
 
-Course: {{ page.course }}
-
 ![AZ-900](\assets\images\Fundamentals.png)
 
 # AZ-900 | Microsoft Azure Fundamentals
@@ -197,7 +195,7 @@ Lorem ipsum dolor amet shabby chic food truck schlitz biodiesel, bicycle rights 
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
-{% if tag == "AZ-900" %}
+{% if tag == "{{ page.course }}" %}
 
 <hr class="thin" />
 

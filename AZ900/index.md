@@ -73,8 +73,9 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * [Understand security, privacy, compliance, and trust (25-30%)](#objective-3)
 * [Understand Azure pricing and support (25-30%)](#objective-4)
 
-### Understand cloud concepts (15-20%)
 <a name="objective-1"></a>
+### Understand cloud concepts (15-20%)
+
 #### Describe the benefits and considerations of using cloud services
 
 * #### Understand terms such as High Availability, Scalability, Elasticity, Agility, Fault Tolerance, and Disaster Recovery
@@ -94,8 +95,9 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * #### Describe Hybrid cloud
 * #### Compare and contrast the three different cloud models
 
-### Understand core Azure services (30-35%)
 <a name="objective-2"></a>
+### Understand core Azure services (30-35%)
+
 #### Understand the core Azure architectural components
 * #### Describe Regions
 * #### Describe Availability Zones
@@ -121,8 +123,9 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * #### Understand Azure tools such as Azure CLI, PowerShell, and the Azure Portal
 * #### Understand Azure Advisor
 
-### Understand security, privacy, compliance, and trust (25-30%)
 <a name="objective-3"></a>
+### Understand security, privacy, compliance, and trust (25-30%)
+
 #### Understand securing network connectivity in Azure
 * #### Describe Azure Firewall
 * #### Describe Azure DDoS Protection
@@ -163,8 +166,9 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * #### Understand Azure Government services
 * #### Understand Azure Germany services
 
-### Understand Azure pricing and support (25-30%)
 <a name="objective-4"></a>
+### Understand Azure pricing and support (25-30%)
+
 #### Understand Azure subscriptions
 * #### Describe an Azure subscription
 * #### Understand the uses and options with Azure subscriptions

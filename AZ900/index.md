@@ -193,11 +193,14 @@ Lorem ipsum dolor amet shabby chic food truck schlitz biodiesel, bicycle rights 
 <a name="parking-lot"></a>
 
 ---
+{{ page.course }}
+---
+"{{ page.course }}"
 
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
-{% if tag=={{page.course}} %}
+{% if tag == "{{ page.course }}" %}
 
 
 <hr class="thin" />

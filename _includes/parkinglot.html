@@ -5,7 +5,7 @@
 {% if tag == page.course %}
 
 {% assign anchor == post.title | replace:' ','-'  %}
-<li><a href="#{{ anchor }}">
+<li><a href={{ # | anchor }}>
 {{ post.title }}</a></li>
 
 {% endif %}

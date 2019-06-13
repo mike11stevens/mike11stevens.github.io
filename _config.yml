@@ -5,8 +5,8 @@ description: stuff and things
 logo: /assets/images/misteven_cloud.png
 show_downloads: true
 blog: https://mike11stevens.com
-twitter: https://twitter.com/@mike11stevens
 twitter_username: "@mike11stevens"
+twitter: https://twitter.com/@mike11stevens
 permalink:  /blog/:year/:month/:day/:title
 paginate: 10
 plugins:

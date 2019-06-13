@@ -1,3 +1,20 @@
+<ul>
+{% for post in site.posts %}
+{% for tag in post.tags %}
+        
+{% if tag == page.course %}
+{% anchor == { post.title| replace:' ','-' } %}
+<li><a href="#{{ anchor }}">
+{{ post.title }}</a></li>
+</h3>
+{{ post.excerpt }}
+
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
+<!-- end links list -->
+
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
@@ -5,10 +22,12 @@
 
 
 <hr class="thin" />
-
+{% anchor == { post.title| replace:' ','-' } %}
 <h3>
 {{ post.title }}
 </h3>
+<a name="{{ anchor }}"></a>
+
 {{ post.excerpt }}
 
 {% endif %}

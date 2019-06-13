@@ -196,6 +196,7 @@ Lorem ipsum dolor amet shabby chic food truck schlitz biodiesel, bicycle rights 
 {% for tag in post.tags %}
         
 {% if tag == {{ page.course }} %}
+...
 
 <hr class="thin" />
 

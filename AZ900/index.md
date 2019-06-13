@@ -213,33 +213,14 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * [Azure Heat Map]('https://azureheatmap.azurewebsites.net/') 
     * This site was developed by [Alexey Polkovnikov](https://www.linkedin.com/in/alexeypolkovnikov/), Microsoft Cloud Solution Architect
 
-### Azure Storage Explorer
-
-![Azure Storage Explorer](/assets/images/az_storageexplorer.png)
-* [Get started with Storage Explorer]('https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows')
-    * [Windows]('https://azure.microsoft.com/en-us/features/storage-explorer/')
-    * [Linux]('https://azure.microsoft.com/en-us/features/storage-explorer/')
-    * [MacOS]('https://azure.microsoft.com/en-us/features/storage-explorer/')
-
-### PowerShell
-![PowerShell](/assets/images/az_powershell.PNG)
-* [PowerShell Documentation]('https://docs.microsoft.com/en-us/powershell/')
-* [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core')
-* [aka.ms/pscore6]('https://aka.ms/pscore6')
-* [powershell/powershell]('https://github.com/PowerShell/PowerShell#get-powershell') (GitHub)
-* [Download .NET]('https://dotnet.microsoft.com/download?utm_source=ms-docs&utm_medium=referral')
-[dotnet/core]('https://github.com/dotnet/core/releases') (GitHub)
-* ["Hey, Scripting Guy"]('https://devblogs.microsoft.com/scripting/') (Blog)
-* ["Weekend Scripter: Why Learn PowerShell?"](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/) (Post)
-* [Learn Windows PowerShell in a Month of Lunches]('https://smile.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160') (Book)
-* [Map Book for Experienced Bash users]('https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell#map-book-for-experienced-bash-users')
-
 ---
 
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
 {% if tag == "AZ-900" %}
+
+<hr class="thin" />
 
 <h3>
 {{ post.title }}

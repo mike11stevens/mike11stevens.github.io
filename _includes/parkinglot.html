@@ -3,7 +3,7 @@
 {% for tag in post.tags %}
         
 {% if tag == page.course %}
-{{ anchor == post.title | replace:' ','-'  }}
+{% assign anchor == post.title | replace:' ','-'  %}
 <li><a href="#{{ anchor }}">
 {{ post.title }}</a></li>
 </h3>
@@ -22,7 +22,7 @@
 
 
 <hr class="thin" />
-{{ anchor == post.title | replace:' ','-'  }}
+{% assign anchor == post.title | replace:' ','-'  %}
 <h3>
 {{ post.title }}
 </h3>

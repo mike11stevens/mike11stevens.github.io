@@ -2,6 +2,7 @@
 layout: default
 course: AZ-103
 courselevel: associate
+image: /assets/images/az_powershell.PNG
 ---
 
 ![AZ-103](\assets\images\associate.png)

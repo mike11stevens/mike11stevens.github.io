@@ -1,9 +1,13 @@
 theme: jekyll-theme-minimal
 title: Mike Stevens
+tile_image: /assets/images/title_image.png
 description: stuff and things
 logo: /assets/images/misteven_cloud.png
 show_downloads: true
 blog: https://mike11stevens.com
 twitter: https://twitter.com/@mike11stevens
+twitter_username: "@mike11stevens"
 permalink:  /blog/:year/:month/:day/:title
 paginate: 10
+plugins:
+  - jekyll-sitemap

@@ -203,7 +203,7 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
-{% if tag == {{ page.course }} %}
+{% if tag == {{ post.course }} %}
 
 <hr class="thin" />
 

@@ -5,3 +5,4 @@ logo: /assets/images/misteven_cloud.png
 show_downloads: true
 blog: https://mike11stevens.com
 twitter: https://twitter.com/@mike11stevens
+permalink:  /blog/:year/:month/:day/:title

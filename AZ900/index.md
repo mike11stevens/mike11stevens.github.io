@@ -1,5 +1,6 @@
 ---
 layout: default
+course: AZ-900
 ---
 
 ![AZ-900](\assets\images\Fundamentals.png)
@@ -199,26 +200,10 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 ## Parking Lot
 <a name="parking-lot"></a>
 
-### AzCopy
-![AzCopy Tool](/assets/images/az_azcopy.png)
-* [Get Started with AzCopy]('https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10')
-* [azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy/releases) (GitHub)
-    * [Windows]('https://aka.ms/downloadazcopy-v10-windows') (zip)
-    * [Linux]('https://aka.ms/downloadazcopy-v10-linux') (tar)
-    * [MacOS]('https://aka.ms/downloadazcopy-v10-mac') (zip)
-
-### Azure Heat Map
-
-![Azure Heat Map](/assets/images/az_heatmap.PNG)
-* [Azure Heat Map]('https://azureheatmap.azurewebsites.net/') 
-    * This site was developed by [Alexey Polkovnikov](https://www.linkedin.com/in/alexeypolkovnikov/), Microsoft Cloud Solution Architect
-
----
-
 {% for post in site.posts %}
 {% for tag in post.tags %}
         
-{% if tag == "AZ-900" %}
+{% if tag == {{ page.course }} %}
 
 <hr class="thin" />
 

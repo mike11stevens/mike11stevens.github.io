@@ -233,3 +233,14 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
 * ["Weekend Scripter: Why Learn PowerShell?"](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/) (Post)
 * [Learn Windows PowerShell in a Month of Lunches]('https://smile.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160') (Book)
 * [Map Book for Experienced Bash users]('https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell#map-book-for-experienced-bash-users')
+
+---
+
+{% for category in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

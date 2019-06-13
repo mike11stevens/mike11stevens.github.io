@@ -6,7 +6,6 @@ categories: []
 tags: [Azure, AZ-900, Scripting, Automation, Windows]
 ---
 
-### PowerShell
 ![PowerShell](/assets/images/az_powershell.PNG)
 * [PowerShell Documentation]('https://docs.microsoft.com/en-us/powershell/')
 * [PowerShell Core]('https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell#powershell-core')

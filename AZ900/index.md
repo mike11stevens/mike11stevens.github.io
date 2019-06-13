@@ -243,7 +243,9 @@ Occupy meh chambray la croix activated charcoal cray polaroid mlkshk wolf fanny 
         
 {% if tag == "AZ-900" %}
 
+<h3>
 {{ post.title }}
+</h3>
 {{ post.excerpt }}
 
 {% endif %}

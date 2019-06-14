@@ -2,7 +2,7 @@
 layout: default
 course: AZ-203
 image: \assets\images\Associate.png
-description: Collection of curated links, training resources, and other stuff for AZ-203 Developing Solutions for Microsoft Azure exam and Microsoft Certified: Azure Developer Associate.
+description: Collection of curated links, training resources, and other stuff for AZ-203 Developing Solutions for Microsoft Azure exam and Microsoft Certified Azure Developer Associate.
 ---
 
 ![AZ-203](\assets\images\Associate.png)
@@ -33,7 +33,7 @@ Four loko venmo chartreuse chillwave marfa pinterest disrupt asymmetrical vegan 
 ## Training Resources
 <a name="training-resources"></a>
 
-[MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure){:target="_blank"} (GitHub)
+* [MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure){:target="_blank"} (GitHub)
 
 ## Learning Path
 <a name="learning-path"></a>

@@ -1,6 +1,8 @@
 ---
 layout: default
 course: AZ-900
+image: \assets\images\Fundamentals.png
+description: Collection of curated links, training resources, and other stuff for AZ-900 Azure Fundamentals exam and Microsoft Certified Azure Fundamentals certification.
 ---
 
 ![AZ-900](\assets\images\Fundamentals.png)

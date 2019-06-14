@@ -2,10 +2,10 @@
 layout: default
 course: AZ-103
 courselevel: associate
-image: /assets/images/az_powershell.PNG
+image: \assets\images\Associate.png
 ---
 
-![AZ-103](\assets\images\associate.png)
+![AZ-103](\assets\images\Associate.png)
 
 # AZ-103 | Microsoft Azure Administrator
 

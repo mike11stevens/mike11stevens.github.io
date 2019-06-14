@@ -33,7 +33,7 @@ Four loko venmo chartreuse chillwave marfa pinterest disrupt asymmetrical vegan 
 ## Training Resources
 <a name="training-resources"></a>
 
-Lorem ipsum dolor amet shabby chic food truck schlitz biodiesel, bicycle rights echo park kickstarter distillery vexillologist drinking vinegar helvetica affogato godard typewriter before they sold out. Ennui irony seitan cliche. Mixtape offal ugh hexagon, readymade plaid snackwave banh mi tattooed schlitz prism tacos. Food truck 90's cornhole, woke synth vinyl intelligentsia plaid ethical aesthetic selfies kickstarter man bun cloud bread letterpress. Etsy venmo sustainable cray vexillologist yr. Everyday carry biodiesel sustainable, crucifix kinfolk slow-carb edison bulb fam williamsburg.
+[MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator){:target="_blank"} (GitHub)
 
 ## Learning Path
 <a name="learning-path"></a>

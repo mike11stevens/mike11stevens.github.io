@@ -33,7 +33,7 @@ Four loko venmo chartreuse chillwave marfa pinterest disrupt asymmetrical vegan 
 ## Training Resources
 <a name="training-resources"></a>
 
-[MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator){:target="_blank"} (GitHub)
+[MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure){:target="_blank"} (GitHub)
 
 ## Learning Path
 <a name="learning-path"></a>

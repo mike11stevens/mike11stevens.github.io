@@ -34,7 +34,7 @@ This exam measures your ability to accomplish the following technical tasks: dev
 ## Learning Path
 <a name="learning-path"></a>
 
-### [Azure Developer]('https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=developer&products=azure')
+### [Azure Developer]('https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=developer&products=azure'){:target="_blank"}
 * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals){:target="_blank"}
 * [Mange Resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure){:target="_blank"}
 * [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/){:target="_blank"}
@@ -59,6 +59,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 
 <a name="objective-1"></a>
 ### Develop Azure Infrastructure as a Service compute solutions (10-15%)
+
+* [Develop Azure Infrastructure as a Service compute solutions (edX course)](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.1+2019_T2/course/){:target="_blank"}
 
 #### Implement solutions that use virtual machines (VM)
 * #### provision VMs

@@ -29,7 +29,11 @@ This exam measures your ability to accomplish the following technical tasks: dev
 ## Training Resources
 <a name="training-resources"></a>
 
-* [MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure){:target="_blank"} (GitHub)
+* [MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure){:target="_blank"} (GitHub, course labs)
+    * Updated lab guides and supporting files for the Microsfot Official Curriculum (MOC) AZ-203 courseware delivered by Microsoft Certified Trainers (MCT)
+
+* [Pluralsight roleIQ: Microsoft Azure Developer](https://www.pluralsight.com/role-iq/microsoft-azure-developer){:target="_blank"} (Free training video series)
+    * [Pluralsight](https://www.pluralsight.com/){:target="_blank"} and Microsoft have partnered to help become an expert in Azure. With skill assessments and over 130 courses across three Azure roles, you can focus your time on understanding your strengths and skill gaps and learn Azure as quickly as possible.
 
 ## Learning Path
 <a name="learning-path"></a>
@@ -60,7 +64,7 @@ This exam measures your ability to accomplish the following technical tasks: dev
 <a name="objective-1"></a>
 ### Develop Azure Infrastructure as a Service compute solutions (10-15%)
 
-* [Develop Azure Infrastructure as a Service compute solutions (edX course)](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.1+2019_T2/course/){:target="_blank"}
+* [AZ-203.1 Develop Azure Infrastructure as a Service compute solutions](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.1+2019_T2/course/){:target="_blank"}  (edX course)
 
 #### Implement solutions that use virtual machines (VM)
 * #### provision VMs
@@ -80,6 +84,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 
 <a name="objective-2"></a>
 ### Develop Azure Platform as a Service compute solutions (20-25%)
+
+* [AZ-203.2 Develop Azure Platform as a Service compute solutions](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.2+2019_T2/about){:target="_blank"}  (edX course)
 
 #### Create Azure App Service Web Apps
 * #### create an Azure App Service Web App
@@ -103,6 +109,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 
 <a name="objective-3"></a>
 ### Develop for Azure storage (15-20%)
+
+* [AZ-203.3 Develop for Azure storage](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.3+2019_T2/about){:target="_blank"}  (edX course)
 
 #### Develop solutions that use storage tables
 * #### design and implement policies for tables
@@ -128,6 +136,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 <a name="objective-4"></a>
 ### Implement Azure security (10-15%)
 
+* [AZ-203.4 Implement Azure Security](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.4+2019_T2/about){:target="_blank"}  (edX course)
+
 #### Implement authentication
 * #### implement authentication by using certificates, forms-based authentication, or tokens
 * #### implement multi-factor or Windows authentication by using Azure AD
@@ -146,6 +156,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 <a name="objective-5"></a>
 ### Monitor, troubleshoot, and optimize solutions (10-15%)
 
+* [AZ-203.5 Monitor, troubleshoot, and optimize Azure solutions](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.5+2019_T2/about){:target="_blank"}  (edX course)
+
 #### Develop code to support scalability of apps and services
 * #### implement autoscaling rules and patterns (schedule, operational/system metrics, singleton applications)
 * #### implement code that handles transient faults
@@ -162,6 +174,8 @@ This exam measures your ability to accomplish the following technical tasks: dev
 
 <a name="objective-6"></a>
 ### Connect to and consume Azure services and third-party services (20-25%)
+
+* [AZ-203.6 Connect to and consume Azure, and third-party, services](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.6+2019_T2/about){:target="_blank"}  (edX course)
 
 #### Develop an App Service Logic App
 * #### create a Logic App

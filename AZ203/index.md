@@ -67,7 +67,27 @@ This exam measures your ability to accomplish the following technical tasks: dev
 * [AZ-203.1 Develop Azure Infrastructure as a Service compute solutions](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-203.1+2019_T2/course/){:target="_blank"}  (edX course)
 
 #### Implement solutions that use virtual machines (VM)
+
+* [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/){:target="_blank"} 
+* [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/){:target="_blank"} 
+
 * #### provision VMs
+
+    * [Azure Virtual Machines](https://www.microsoft.com/videoplayer/embed/RWjVUg){:target="_blank"} (VIDEO, 04:22)
+
+    * [Azure and Linux (Overview)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview){:target="_blank"} (Microsoft Docs)
+    * [Create a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/){:target="_blank"} (Microsoft.com/Learn)
+    * [Quickstart: Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli){:target="_blank"} (Microsoft Docs)
+
+    * [Overview of Windows virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview){:target="_blank"} (Microsoft Docs))
+    * [Create a Windows virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/){:target="_blank"} (Microsoft.com/Learn)
+    * [Quickstart: Create a Windows virtual machine in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal){:target="_blank"} (Microsoft Docs)
+    * [Quickstart: Create a Windows virtual machine in Azure with PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell){:target="_blank"} (Microsoft Docs)
+
+    * [.NET applications on Azure](https://azure.microsoft.com/en-us/develop/net/){:target="_blank"}
+    * [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net){:target="_blank"} (Github)
+    * [Getting Started with Compute - Manage Virtual Machines - in C# asynchronously](https://github.com/Azure-Samples/compute-dotnet-manage-vm-async){:target="_blank"} (Github, Azure-Samples/compute-dotnet-manage-vm-async)
+
 * #### create ARM templates
 * #### configure Azure Disk Encryption for VMs
 

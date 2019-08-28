@@ -31,10 +31,10 @@ image: \assets\images\Associate.png
 
 #### **[MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution](https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution){:target="_blank"}** (GitHub)
 
-#### **[Microsoft Azure Data Engineers VIDEOS]('https://app.pluralsight.com/channels/details/cee119b6-f1cb-4c5f-ae1e-88fa7e728b96'){:target="_blank"}** (Pluralsight + Microsoft)
+#### **[Microsoft Azure Data Engineers VIDEOS](https://app.pluralsight.com/channels/details/cee119b6-f1cb-4c5f-ae1e-88fa7e728b96){:target="_blank"}** (Pluralsight + Microsoft)
 * [Securing Microsoft Azure Data Solutions](https://app.pluralsight.com/paths/skills/securing-microsoft-azure-data-solutions){:target="_blank"}
-* [Monitoring and Managing Microsoft Azure Data Solutions]('https://app.pluralsight.com/paths/skills/monitoring-and-managing-microsoft-azure-data-solutions'){:target="_blank"}
-* [Implementing a Relational Database in Microsoft Azure SQL Database]('https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions'){:target="_blank"}
+* [Monitoring and Managing Microsoft Azure Data Solutions](https://app.pluralsight.com/paths/skills/monitoring-and-managing-microsoft-azure-data-solutions){:target="_blank"}
+* [Implementing a Relational Database in Microsoft Azure SQL Database](https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions){:target="_blank"}
 
 #### **[Self-Study Guide: Microsoft Azure Certification DP-200](https://medium.com/deep-ai/self-study-guide-microsoft-azure-certification-dp-200-implementing-an-azure-data-solution-a55616225ae3){:target="_blank"}** (via [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-9828a536/){:target="_blank"})
 
@@ -44,16 +44,16 @@ image: \assets\images\Associate.png
 ### [Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/){:target="_blank"}
 ### [All Azure Data Engineer Modules](https://docs.microsoft.com/en-us/learn/browse/?roles=data-engineer){:target="_blank"}
 
-* [Azure Fundamentals]('https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index'){:target="_blank"}
-* [Azure for the Data Engineer]('https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/'){:target="_blank"}
-* [Store data in Azure]('https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/index'){:target="_blank"}
-* [Work with relational data in Azure]('https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/index'){:target="_blank"}
-* [Work with NoSQL in Azure Cosmos DB]('https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/index'){:target="_blank"}
-* [Large Scale Data Processing with ADLS G2]('https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/'){:target="_blank"}
-* [Implement a Data Streaming Solution with Azure Streaming Analytics]('https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/index'){:target="_blank"}
-* [Implement a Data Warehouse with Azure SQL Data Warehouse]('https://docs.microsoft.com/en-us/learn/paths/implement-sql-data-warehouse/'){:target="_blank"}
-* [Perform data engineering with Azure Databricks]('https://docs.microsoft.com/en-us/learn/paths/modern-data-warehouse/'){:target="_blank"}
-* [Extract knowledge and insights from your data with Azure Databricks]('https://docs.microsoft.com/en-us/learn/paths/data-science/'){:target="_blank"}
+* [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index){:target="_blank"}
+* [Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/){:target="_blank"}
+* [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/index){:target="_blank"}
+* [Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/index){:target="_blank"}
+* [Work with NoSQL in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/index){:target="_blank"}
+* [Large Scale Data Processing with ADLS G2](https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/){:target="_blank"}
+* [Implement a Data Streaming Solution with Azure Streaming Analytics](https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/index){:target="_blank"}
+* [Implement a Data Warehouse with Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/learn/paths/implement-sql-data-warehouse/){:target="_blank"}
+* [Perform data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/modern-data-warehouse/){:target="_blank"}
+* [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/){:target="_blank"}
 
 ## Objectives
 <a name="objectives"></a>

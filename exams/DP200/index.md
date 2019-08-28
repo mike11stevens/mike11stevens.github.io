@@ -7,7 +7,7 @@ image: \assets\images\Associate.png
 
 ![DP-200](\assets\images\Associate.png)
 
-# DP-200 | Microsoft Certified Azure Data Engineer Associate
+# DP-200 | Microsoft Azure Data Engineer
 
 <hr class="thin" />
 

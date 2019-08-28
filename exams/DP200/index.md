@@ -3,6 +3,7 @@ layout: default
 course: DP-200
 courselevel: associate
 image: \assets\images\Associate.png
+description: Collection of curated links, training resources, and other stuff for Exam DP-200 - Implementing an Azure Data Solution and Microsoft Certified Azure Data Engineer Associate.
 ---
 
 ![DP-200](\assets\images\Associate.png)

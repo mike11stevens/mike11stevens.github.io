@@ -31,10 +31,10 @@ image: \assets\images\Associate.png
 
 [MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution](https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution){:target="_blank"} (GitHub)
 
-[Microsoft Azure Data Engineers VIDEOS]('https://app.pluralsight.com/channels/details/cee119b6-f1cb-4c5f-ae1e-88fa7e728b96'){:target="_blank"} Pluralsight + Microsoft
-* [Securing Microsoft Azure Data Solutions](https://app.pluralsight.com/paths/skills/securing-microsoft-azure-data-solutions){:target="_blank"} 
+[Microsoft Azure Data Engineers VIDEOS]('https://app.pluralsight.com/channels/details/cee119b6-f1cb-4c5f-ae1e-88fa7e728b96'){:target="_blank"} (Pluralsight + Microsoft)
+* [Securing Microsoft Azure Data Solutions](https://app.pluralsight.com/paths/skills/securing-microsoft-azure-data-solutions){:target="_blank"}
 * [Monitoring and Managing Microsoft Azure Data Solutions]('https://app.pluralsight.com/paths/skills/monitoring-and-managing-microsoft-azure-data-solutions'){:target="_blank"}
-* [Implementing a Relational Database in Microsoft Azure SQL Database]('https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions'){:target="_blank"}  
+* [Implementing a Relational Database in Microsoft Azure SQL Database]('https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions'){:target="_blank"}
 
 [Self-Study Guide: Microsoft Azure Certification DP-200](https://medium.com/deep-ai/self-study-guide-microsoft-azure-certification-dp-200-implementing-an-azure-data-solution-a55616225ae3){:target="_blank"} (via [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-9828a536/){:target="_blank"} )
 

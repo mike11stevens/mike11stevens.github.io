@@ -36,13 +36,13 @@ image: \assets\images\Associate.png
 * [Monitoring and Managing Microsoft Azure Data Solutions]('https://app.pluralsight.com/paths/skills/monitoring-and-managing-microsoft-azure-data-solutions'){:target="_blank"}
 * [Implementing a Relational Database in Microsoft Azure SQL Database]('https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions'){:target="_blank"}
 
-#### **[Self-Study Guide: Microsoft Azure Certification DP-200](https://medium.com/deep-ai/self-study-guide-microsoft-azure-certification-dp-200-implementing-an-azure-data-solution-a55616225ae3){:target="_blank"}** (via [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-9828a536/){:target="_blank"} )
+#### **[Self-Study Guide: Microsoft Azure Certification DP-200](https://medium.com/deep-ai/self-study-guide-microsoft-azure-certification-dp-200-implementing-an-azure-data-solution-a55616225ae3){:target="_blank"}** (via [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-9828a536/){:target="_blank"})
 
 ## Learning Path
 <a name="learning-path"></a>
 
-### [Azure for the Data Engineer]('https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/'){:target="_blank"}
-### [All Azure Data Engineer Modules]('https://docs.microsoft.com/en-us/learn/browse/?roles=data-engineer'){:target="_blank"}
+### [Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/){:target="_blank"}
+### [All Azure Data Engineer Modules](https://docs.microsoft.com/en-us/learn/browse/?roles=data-engineer){:target="_blank"}
 
 * [Azure Fundamentals]('https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index'){:target="_blank"}
 * [Azure for the Data Engineer]('https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/'){:target="_blank"}

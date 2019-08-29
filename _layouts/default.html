@@ -42,10 +42,18 @@
         <br /><br />
         {% endif %}
 
-        rev 002
+        rev 004
 
-        {% if page.shortcuts == "ok" %}
-            <h1>HOME PAGE</h1>
+        {% if page.shortcuts != "ok" %}
+
+        <ul>
+          <li><a href="#certification">Certification</a></li>
+          <li><a href="#learning-path">Learning Path</a></li>
+          <li><a href="#training-resources">Training Resources</a></li>
+          <li><a href="#objectives"></a>Objectives</li>
+          <li><a href="#parking-lot">Parking Lot</a></li>
+        </ul>
+
         {% endif %}
         
         <hr class="thin" />

@@ -36,6 +36,9 @@ description: Collection of curated links, training resources, and other stuff fo
 * [Monitoring and Managing Microsoft Azure Data Solutions](https://app.pluralsight.com/paths/skills/monitoring-and-managing-microsoft-azure-data-solutions){:target="_blank"}
 * [Implementing a Relational Database in Microsoft Azure SQL Database](https://app.pluralsight.com/library/courses/microsoft-azure-implementing-relational-database-solutions){:target="_blank"}
 
+#### **[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8){:target="_blank"} (Microsoft Ignite 2018)**
+[![Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://img.youtube.com/vi/nWpNe5bbzz8/0.jpg)](https://www.youtube.com/watch?v=nWpNe5bbzz8){:target="_blank"}
+
 #### **[Self-Study Guide: Microsoft Azure Certification DP-200](https://medium.com/deep-ai/self-study-guide-microsoft-azure-certification-dp-200-implementing-an-azure-data-solution-a55616225ae3){:target="_blank"}** (via [Shivam Sharma](https://www.linkedin.com/in/shivam-sharma-9828a536/){:target="_blank"})
 
 ## Learning Path

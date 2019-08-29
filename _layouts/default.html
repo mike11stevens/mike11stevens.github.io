@@ -42,9 +42,11 @@
         <br /><br />
         {% endif %}
 
-        {% if post.links = ok %}
-            HOME PAGE
+        {% for shortcut in post.shortcuts %}
+        {% if shortcut == ok %}
+            ## HOME PAGE
         {% endif %}
+        {% endfor %}
         
         <hr class="thin" />
 

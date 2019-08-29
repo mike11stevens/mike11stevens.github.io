@@ -1,6 +1,6 @@
 ---
 layout: default
-links: ok
+shortcuts: ok
 ---
   
     

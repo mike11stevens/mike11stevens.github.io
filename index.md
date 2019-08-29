@@ -1,6 +1,6 @@
 ---
 layout: default
-showpagelinks: yes
+links: ok
 ---
   
     

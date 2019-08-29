@@ -3,7 +3,7 @@ layout: post
 title: "Azure Storage Explorer"
 date: 2019-06-13
 categories: []
-tags: [Azure, AZ-900, Storage, Tools, Windows, Linux, MacOS]
+tags: [Azure, AZ-900, Storage, Tools, Windows, Linux, MacOS, AZ-103, DP-200, AZ-300, ]
 ---
 
 ![Azure Storage Explorer](/assets/images/az_storageexplorer.png)

@@ -2,10 +2,9 @@
 layout: default
 ---
 
-
-![Mike](/assets/images/2018_misteven_250px.png)
-
 # Mike Stevens
+
+![Mike](/assets/images/2018_misteven_250px.png =200px)
 
 * ## [LinkedIn](https://linkedin.com/in/mikestevens){:target="_blank"}
 * ## [Twitter](https://twitter.com/@mike11stevens){:target="_blank"}

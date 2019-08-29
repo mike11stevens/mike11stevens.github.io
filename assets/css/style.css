@@ -12,5 +12,8 @@ hr.thin {
 }
 
 .downloads ul { 
-    margin: 0px
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
 }

@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+  
+  
 # Mike Stevens
 
 ![Mike](/assets/images/2018_misteven_200px.png)

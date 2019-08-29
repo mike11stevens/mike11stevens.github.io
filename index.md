@@ -4,8 +4,6 @@ layout: default
 
 # Mike Stevens
 
-![Mike](/assets/images/2018_misteven_200px.png)
-
 * ## [LinkedIn](https://linkedin.com/in/mikestevens){:target="_blank"}
 * ## [Twitter](https://twitter.com/@mike11stevens){:target="_blank"}
 * ## [GitHub](https://github.com/mike11stevens){:target="_blank"}

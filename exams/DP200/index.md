@@ -61,9 +61,9 @@ description: Collection of curated links, training resources, and other stuff fo
 ## Objectives
 <a name="objectives"></a>
 
-* [Implement data storage solutions (40-45%)](#objective-1)
-* [Manage and develop data processing (25-30%)](#objective-2)
-* [Monitor and optimize data solutions (30-35%)](#objective-3)
+* **[Implement data storage solutions (40-45%)](#objective-1)**
+* **[Manage and develop data processing (25-30%)](#objective-2)**
+* **[Monitor and optimize data solutions (30-35%)](#objective-3)**
 
 <a name="objective-1"></a>
 ### Implement data storage solutions (40-45%)

@@ -22,7 +22,7 @@ description: Collection of curated links, training resources, and other stuff fo
 ## Certification
 <a name="certification"></a>
 
-### [Exam AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx)
+### [Exam AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx){:target="_blank"}
 
 This exam measures your ability to accomplish the following technical tasks: develop Azure Infrastructure as a Service compute solutions; develop Azure Platform as a Service compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize solutions; and connect to and consume Azure services and third-party services.
 

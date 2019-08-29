@@ -1,5 +1,6 @@
 ---
 layout: default
+showpagelinks: yes
 ---
 #  
 # Mike Stevens  

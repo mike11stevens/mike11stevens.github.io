@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Mike](/assets/images/2018_misteven_500px.png)
+![Mike](/assets/images/2018_misteven_500px_light.png =250x)
 
 # Mike Stevens
 

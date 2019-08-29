@@ -42,7 +42,7 @@
         <br /><br />
         {% endif %}
 
-        rev 010
+        rev 011
 
         {% if page.shortcuts != "ok" %}
 
@@ -50,13 +50,13 @@
 
         <ul class="downloads" style="margin: 0px;">
           <li><a href="/"><strong>HOME</strong></a></li>
-          <li><a href="#certification">{% page.course %} <strong>Certification</strong></a></li>
-          <li><a href="#learning-path">{% page.course %} <strong>Learning Path</strong></a></li>
+          <li><a href="#certification">{{ page.course }} <strong>Certification</strong></a></li>
+          <li><a href="#learning-path">{{ page.course }}<strong>Learning Path</strong></a></li>
         </ul>
         <ul class="downloads">
-          <li><a href="#training-resources">{% page.course %} <strong>Resources</strong></a></li>
-          <li><a href="#objectives">{% page.course %} <strong>Objectives</strong></a></li>
-          <li><a href="#parking-lot">{% page.course %} <strong>Parking Lot</strong></a></li>
+          <li><a href="#training-resources">{{ page.course }} <strong>Resources</strong></a></li>
+          <li><a href="#objectives">{{ page.course }} <strong>Objectives</strong></a></li>
+          <li><a href="#parking-lot">{{ page.course }} <strong>Parking Lot</strong></a></li>
         </ul>
 
         {% endif %}

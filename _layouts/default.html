@@ -42,17 +42,17 @@
         <br /><br />
         {% endif %}
 
-        {% for shortcut in page.shortcuts %}
-        {% if shortcut == ok %}
-            ## HOME PAGE
+        {% if page.shortcuts == ok %}
+            <h1>HOME PAGE</h1>
         {% endif %}
-        {% endfor %}
         
         <hr class="thin" />
 
         <img src="/assets/images/learningpath_graphic.svg" style="border:0px;" />
 
         <hr class="thin" />
+
+        rev 001
 
         <ul class="downloads" style="margin: 0px;">
           <li><a href="/exams/AZ900/">Fundamentals<strong>AZ-900</strong></a></li>

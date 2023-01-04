@@ -20,7 +20,7 @@ title                    : "V A M P I R E   W O R K D A Y "
 title_separator          : "-"
 subtitle                 : "sometimes work sucks." # site tagline that appears below site title in masthead
 name                     : "Mike Stevens"
-description              : ""
+description              : " "
 url                      : "https://mike11stevens.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mike11stevens/mike11stevens.github.io

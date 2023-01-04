@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "V A M P I R E   W O R K D A Y "
+title                    : "VAMPIRE WORKDAY" # "V A M P I R E   W O R K D A Y"
 title_separator          : "-"
 subtitle                 : "sometimes work sucks." # site tagline that appears below site title in masthead
 name                     : "Mike Stevens"

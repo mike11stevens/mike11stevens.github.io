@@ -1,4 +1,4 @@
-a# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VAMPIRE WORKDAY" # "V A M P I R E   W O R K D A Y"
+title                    : "V A M P I R E   W O R K D A Y" # "VAMPIRE WORKDAY" # "V A M P I R E   W O R K D A Y"
 title_separator          : "-"
 subtitle                 : "sometimes work sucks." # site tagline that appears below site title in masthead
 name                     : "Mike Stevens"

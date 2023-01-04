@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -20,7 +20,7 @@ title                    : "Vampire Workday"
 title_separator          : "-"
 subtitle                 : "sometimes work sucks." # site tagline that appears below site title in masthead
 name                     : "Mike Stevens"
-description              : "An amazing website."
+description              : ""
 url                      : "https://mike11stevens.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mike11stevens/mike11stevens.github.io
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mike"
+  name             : "Mike Stevens"
   avatar           : "/assets/images/mike_old.png" # "/assets/images/100x100.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **EXTRA** ordinary person."
   location         : "Atlanta Metro Area"

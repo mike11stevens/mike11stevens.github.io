@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Vampire Workday"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "sometimes work sucks." # site tagline that appears below site title in masthead
 name                     : "Mike Stevens"
 description              : "An amazing website."
 url                      : "https://mike11stevens.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Mike"
-  avatar           : "/assets/images/100x100.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/mike_old.png" # "/assets/images/100x100.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **EXTRA** ordinary person."
   location         : "Atlanta Metro Area"
   email            :
   links:

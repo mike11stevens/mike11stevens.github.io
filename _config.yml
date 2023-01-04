@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Mike Stevens"
   avatar           : "/assets/images/mike_old.png" # "/assets/images/100x100.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **EXTRA** ordinary person."
+  bio              : "I am an **extra** ordinary person."
   location         : "Atlanta Metro Area"
   email            :
   links:

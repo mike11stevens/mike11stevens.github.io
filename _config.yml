@@ -62,8 +62,8 @@ reCaptcha:
 atom_feed:
   path: 
   hide: 
-search: 'true'
-search_full_content: 'true'
+search: true
+search_full_content: true
 search_provider: google
 lunr:
   search_within_pages: 
@@ -74,7 +74,7 @@ algolia:
   powered_by: 
 google:
   search_engine_id: 76190a54206df41a5
-  instant_search: 'true'
+  instant_search: true
 google_site_verification: 
 bing_site_verification: 
 naver_site_verification: 

@@ -105,7 +105,9 @@ author:
   location: Atlanta Metro Area
   email: 
   links:
-  - label: Email
+  - label: LinkedIn
+    icon: fab fa-fw fa-linkedin
+    url: https://linkedin.com/in/mikestevens- label: Email
     icon: fas fa-fw fa-envelope-square
     url: mailto:mike@vampireworkday.com
   - label: Website
@@ -113,9 +115,6 @@ author:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/@mike11stevens
-  - label: LinkedIn
-    icon: fab fa-fw fa-linkedin
-    url: https://linkedin.com/in/mikestevens
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/mike11stevens

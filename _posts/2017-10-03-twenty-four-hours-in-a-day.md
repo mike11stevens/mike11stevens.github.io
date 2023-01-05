@@ -10,6 +10,7 @@ What I don’t have is time to make things a priority that aren't. To do this th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n3kNlFMXslo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 …and just in case you reject the “relative” confines of time in a 24 hour day:
 
 [**xkcd: 28-Hour Day**](https://xkcd.com/320/)

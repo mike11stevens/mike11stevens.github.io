@@ -2,15 +2,21 @@
 main:
   - title: "Stuff"
     url: "/"
+    description: "Rick"
   - title: "Things"
     url: "/"
+    description: "Grimes"
   - title: "Shop"
     url: "/"
+    description: "All proceeds go to me."
   - title: "About"
     url: "/about/"
+    description: "TMI"
   - title: "LinkedIn"
     url: https://linkedin.com/in/mikestevens
     target: "_blank"
+    description: "Worky work, busy bee! https://www.youtube.com/watch?v=B_MtpOAXyvo"
   - title: "The Weekend"
     url: "https://www.vampireweekend.com/"
+    description: "Vampire Weekend... First the window, then it's to the wall. Lil Jon, he always tells the truth."
   

@@ -71,9 +71,9 @@ Not the least of which is the shift in approach to real scenarios and practical 
 
 Microsoft Learn has implemented “role based” certifications, starting with Azure, that map more directly to real jobs and responsibilities. For example, there are Azure Administrator, Azure Developer, and Azure Architect role-based certifications… in the past these certifications have been more grounded in product releases and feature updates that came along with traditional waterfall/On-Prem software. In the new reality of “evergreen” cloud services, that just doesn’t fit.
 
-[New role-based certification and training is here, and we’re just getting started! | Microsoft Docs](https://docs.microsoft.com/en-us/learn/certifications/posts/new-role-based-certification-and-training-is-here)
+[**New role-based certification and training is here, and we’re just getting started!**](https://docs.microsoft.com/en-us/learn/certifications/posts/new-role-based-certification-and-training-is-here)
 
-![](https://cdn-images-1.medium.com/max/2972/1*vOdolCctlHydCXBA7_SGPA.png)
+!["New role-based certification and training is here, and we’re just getting started!"](https://cdn-images-1.medium.com/max/2972/1*vOdolCctlHydCXBA7_SGPA.png)
 
 ## 3. BIGGEST changes in culture
 

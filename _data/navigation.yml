@@ -1,13 +1,14 @@
 # main links
 main:
+  - title: "Stuff"
+    url: "/"
+  - title: "Things"
+    url: "/"
+  - title: "Shop"
+    url: "/"
+  - title: "About"
+    url: "/"
   - title: "LinkedIn"
     url: https://linkedin.com/in/mikestevens
     target: "_blank"
-  - title: "Link 1"
-    url: "/"
-  - title: "Link 2"
-    url: "/"
-  - title: "Link 3"
-    url: "/"
-  - title: "Link 4"
-    url: "/"
+  

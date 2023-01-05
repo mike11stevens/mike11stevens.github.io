@@ -19,7 +19,7 @@ For example; I want to continue to live abroad and I also want to move into a di
 
 There is certainly measurable value in looking at all angles and anticipating risks associated with a decision. Too many times in the past, however, I have left ideas, passions, and dreams shot dead on the ground by my own bullets.
 
-!["CANCELLED: Following your dreams"](assets/images/cancelled.png)
+!["CANCELLED: Following your dreams"](/assets/images/cancelled.png)
 
 One thought that sticks with me through the years and I keep in mind when considering my next steps was gifted to me by a mentor as a younger man. In one of many influential discussions with a pastor and friend, he dropped the line “ask not, have not” on me. The saying and sentiment are loosely extracted from the Bible verse James 4:2, “…You do not have because you do not ask…”.
 
@@ -29,8 +29,8 @@ One thought that sticks with me through the years and I keep in mind when consid
 
 The full context of the passage is not as relevant to me as its practical application. The Great One, Wayne Gretzky, is commonly attributed with the quote “You miss 100% of the shots you don’t take.” I personally prefer The Office’s Michael Scott quoting that quote.
 
-!["You miss 100% of the shots you don’t take."](assets/images/michael_scott.png)
+!["You miss 100% of the shots you don’t take."](/assets/images/michael_scott.png)
 
 Inevitably and consistently in this life, you will see, think, or dream of big and little things that require permission and\or support from someone else to move forward. In these scenarios, I aspire to remind myself to “ask not” or “have not”. I prefer to suffer through the rejection of an “NO” from someone else instead of an “NO” from myself. When someone else rejects you, you have options (negotiation, asking someone else, etc). When you reject yourself, you are stuck.
 
-!["Your only limit is you."](assets/images/your_limit.png)
+!["Your only limit is you."](/assets/images/your_limit.png)

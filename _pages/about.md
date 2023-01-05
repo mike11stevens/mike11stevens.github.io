@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: splash
 permalink: /about/
 ---
 
-##Sup
+## Sup

@@ -64,13 +64,13 @@ atom_feed:
   hide: 
 search: true
 search_full_content: true
-search_provider: google
+search_provider: algolia
 lunr:
   search_within_pages: 
 algolia:
-  application_id: 
-  index_name: 
-  search_only_api_key: 
+  application_id: 6F1NI1RN9O
+  index_name: blog_vampireworkday
+  search_only_api_key: 38f2840dd8608d04b06b6a18fdd7ed94
   powered_by: 
 google:
   search_engine_id: 76190a54206df41a5

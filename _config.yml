@@ -68,9 +68,9 @@ search_provider: algolia
 lunr:
   search_within_pages: 
 algolia:
-  application_id: 6F1NI1RN9O
-  index_name: blog_vampireworkday
-  search_only_api_key: 38f2840dd8608d04b06b6a18fdd7ed94
+  application_id: 9M14MPBQNI
+  index_name: blog_vw
+  search_only_api_key: f72220d9bb0c196312ee417309fd16b0
   powered_by: 
 google:
   search_engine_id: 76190a54206df41a5

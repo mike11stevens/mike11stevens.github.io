@@ -11,6 +11,7 @@ header:
   teaser: /assets/images/hours_500x300.png
   image: /assets/images/hours_1200x400.png
   caption: "Photo credit: [**@alschim**](https://unsplash.com/@alschim)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
+og_image: /assets/images/hours_240x240.png
 
 ---
 

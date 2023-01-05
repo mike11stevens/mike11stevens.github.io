@@ -68,9 +68,9 @@ search_provider: algolia
 lunr:
   search_within_pages: 
 algolia:
-  application_id: 9M14MPBQNI
+  application_id: PCKJ6H8WL6
   index_name: blog_vw
-  search_only_api_key: f72220d9bb0c196312ee417309fd16b0
+  search_only_api_key: 06f4ac013fe3cbf9f1d37303bb4831f6
   powered_by: 
 google:
   search_engine_id: 76190a54206df41a5

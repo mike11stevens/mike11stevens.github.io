@@ -1,5 +1,5 @@
 ---
-title: "Posts by tag"
+title: "Posts by Tag"
 collection: tags # collection name
 permalink: /tags/
 layout: tags

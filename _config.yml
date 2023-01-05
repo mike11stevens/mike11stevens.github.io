@@ -94,7 +94,7 @@ social:
 analytics:
   provider: google
   google:
-    tracking_id: G-NLKM6EGCD2
+    tracking_id: UA-46789683-1
     anonymize_ip: 
 author:
   name: Mike Stevens

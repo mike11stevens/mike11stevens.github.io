@@ -99,4 +99,4 @@ I personally love the “Create clarity” portion and think it is critical in a
 
 I’m completely re-energized to be part of a new program within a massive organization like Microsoft, love the direction we are headed in for “skilling”, and do not miss logging my time daily one bit ;)
 
- <iframe src="https://medium.com/media/404451909f8f150af70f9d7a7e605456" frameborder=0></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ejfsN8xOEoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

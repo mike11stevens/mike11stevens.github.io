@@ -16,7 +16,7 @@ For example; I want to continue to live abroad and I also want to move into a di
 * rejection from company leadership on additional costs and overhead
 * possible restrictions from host nation on role change and logistics
 * …and the list goes on and on.
-* 
+
 There is certainly measurable value in looking at all angles and anticipating risks associated with a decision. Too many times in the past, however, I have left ideas, passions, and dreams shot dead on the ground by my own bullets.
 
 !["CANCELLED: Following your dreams"](assets/images/cancelled.png)

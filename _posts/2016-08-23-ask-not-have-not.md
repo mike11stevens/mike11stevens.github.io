@@ -1,6 +1,6 @@
 ---
 title: "“Ask not, Have not”"
-tags: blog, test, mike
+tags: career reflection 
 
 ---
 
@@ -10,22 +10,27 @@ Future plans are great because they can be made up of hope and possibility. They
 
 For example; I want to continue to live abroad and I also want to move into a different role within my company (possibly a masked, winged vigilante). My first instinct is to think through all of the reasons why this won’t work…
 
-internal team dynamics and politics
-customer satisfaction concerns leaving existing role
-fear that I will not be able to be a high performer in a new, non-technical role
-rejection from company leadership on additional costs and overhead
-possible restrictions from host nation on role change and logistics
-…and the list goes on and on.
+* internal team dynamics and politics
+* customer satisfaction concerns leaving existing role
+* fear that I will not be able to be a high performer in a new, non-technical role
+* rejection from company leadership on additional costs and overhead
+* possible restrictions from host nation on role change and logistics
+* …and the list goes on and on.
+* 
 There is certainly measurable value in looking at all angles and anticipating risks associated with a decision. Too many times in the past, however, I have left ideas, passions, and dreams shot dead on the ground by my own bullets.
 
+!["CANCELLED: Following your dreams"](assets/images/cancelled.png)
 
 One thought that sticks with me through the years and I keep in mind when considering my next steps was gifted to me by a mentor as a younger man. In one of many influential discussions with a pastor and friend, he dropped the line “ask not, have not” on me. The saying and sentiment are loosely extracted from the Bible verse James 4:2, “…You do not have because you do not ask…”.
 
-James 4:2–3 New International Version (NIV)
+[James 4:2–3 New International Version (NIV)](https://www.biblegateway.com/passage/?search=James%204:2-3)
 
 2 You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask God. 3 When you ask, you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.
 
 The full context of the passage is not as relevant to me as its practical application. The Great One, Wayne Gretzky, is commonly attributed with the quote “You miss 100% of the shots you don’t take.” I personally prefer The Office’s Michael Scott quoting that quote.
 
+!["You miss 100% of the shots you don’t take."](assets/images/michael_scott.png)
 
 Inevitably and consistently in this life, you will see, think, or dream of big and little things that require permission and\or support from someone else to move forward. In these scenarios, I aspire to remind myself to “ask not” or “have not”. I prefer to suffer through the rejection of an “NO” from someone else instead of an “NO” from myself. When someone else rejects you, you have options (negotiation, asking someone else, etc). When you reject yourself, you are stuck.
+
+!["Your only limit is you."](assets/images/your_limit.png)

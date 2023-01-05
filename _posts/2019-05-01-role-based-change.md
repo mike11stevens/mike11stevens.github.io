@@ -1,6 +1,11 @@
 ---
-title: "Role-based change"
-tags: career reflection training Microsoft
+title: Role-based change
+date: 2019-05-01 00:00:00 Z
+tags:
+- career
+- reflection
+- training
+- Microsoft
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4E881UjVoYmFfai1XUilgQ.png)

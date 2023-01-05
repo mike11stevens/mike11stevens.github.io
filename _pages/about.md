@@ -1,6 +1,6 @@
 ---
+permalink: "/about/"
 layout: splash
-permalink: /about/
 ---
 
 ## Sup

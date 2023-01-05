@@ -1,6 +1,10 @@
 ---
-title: "24 Hours in a day"
-tags: career reflection productivity
+title: 24 Hours in a day
+date: 2017-10-03 00:00:00 Z
+tags:
+- career
+- reflection
+- productivity
 ---
 
 I repeatedly find myself reminding… myself… that everyone has 24 hours in a day. Everyone. Every one. Please feel free to slap me if I say “I don’t have time”… because **I DO. WE ALL DO.**

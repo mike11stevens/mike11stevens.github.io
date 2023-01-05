@@ -6,6 +6,10 @@ tags:
 - reflection
 - training
 - Microsoft
+header:
+  teaser: /assets/images/role_500x300.png
+  image: /assets/images/role_1200x400.png
+  caption: "Photo credit: [**@_staticvoid**](https://unsplash.com/@_staticvoid)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4E881UjVoYmFfai1XUilgQ.png)

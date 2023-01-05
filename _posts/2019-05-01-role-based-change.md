@@ -3,8 +3,6 @@ title: "Role-based change"
 tags: career reflection training Microsoft
 ---
 
-## Role-based change
-
 ![](https://cdn-images-1.medium.com/max/2000/1*4E881UjVoYmFfai1XUilgQ.png)
 
 Although I’ve officially been in the role since 8 April 2019, I’m heading out to Redmond next week for my official onboarding to a new position. I’ve moved to the [Microsoft Worldwide Learning (WWL)](https://www.microsoft.com/en-us/learning) organization into a new role supporting Azure training as part of the internal Enterprise Skills Initiative (ESI) to “teach, don’t sell” and upskill our customers on our products and services. My official title is currently “Sr Business Program Manager,” but I will eventually be converted to the real title of “[Azure Technical Trainer](https://careers.microsoft.com/us/en/search-results?rt=professional&keywords=Azure%20Technical%20Trainer).”

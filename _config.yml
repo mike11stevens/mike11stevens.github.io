@@ -23,7 +23,7 @@ defaults:
 minimal_mistakes_skin: default
 locale: en-US
 title_separator: "-"
-subtitle: sometimes work sucks.
+subtitle: sometimes work sucks. everybody's workin' for the Weekend
 name: Mike Stevens
 description: ''
 url: https://mike11stevens.github.io
@@ -113,8 +113,9 @@ author:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
     url: https://twitter.com/@mike11stevens
-  - label: Facebook
-    icon: fab fa-fw fa-facebook-square
+  - label: LinkedIn
+    icon: fab fa-fw fa-linkedin-square
+    url: https://linkedin.com/in/mikestevens
   - label: GitHub
     icon: fab fa-fw fa-github
     url: https://github.com/mike11stevens

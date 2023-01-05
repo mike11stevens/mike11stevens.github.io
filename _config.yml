@@ -92,9 +92,9 @@ social:
   name: 
   links: 
 analytics:
-  provider: false
+  provider: google
   google:
-    tracking_id: 
+    tracking_id: G-NLKM6EGCD2
     anonymize_ip: 
 author:
   name: Mike Stevens

@@ -1,7 +1,6 @@
 ---
 title: "24 Hours in a day"
-tags: career reflection
-tag: time management
+tags: career reflection "time mnagement"
 ---
 
 I repeatedly find myself reminding… myself… that everyone has 24 hours in a day. Everyone. Every one. Please feel free to slap me if I say “I don’t have time”…because I DO. WE ALL DO.

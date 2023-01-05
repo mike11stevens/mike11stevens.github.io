@@ -7,7 +7,7 @@ tags:
 header:
   teaser: /assets/images/yoda_500x300.png
   image: /assets/images/yoda_1200x400/png
-  caption: ["Photo credit: nadir_syzygy"](https://unsplash.com/@nadir_syzygy)
+  caption: "Photo credit: [**@nadir_syzygy**](https://unsplash.com/@nadir_syzygy)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Lately, I have devoted a significant amount of time assessing my current and future state on both a career and personal front. As the architect of my own life, I believe it is dangerous to stand back wait for others to act on behalf of my best interests. I am making a concentrated effort between work and self to design, plan, and carry out a meaningful and fulfilling life. The process has proven to be tricky and, at times, exhausting. I am discovering that there is a very delicate balance between confidence in yourself and an over inflated sense of ability and value. How you strike that balance is another topic altogether (if you have that sorted out, please do share!). I am wrestling with “imposter syndrome” on a daily basis, doing my best to pretend to be a grown-up (but really just making it up as I go along). Attempting to compile what the AA folks refer to as a “fearless moral inventory” has been a punch in the gut at times. Honest self-assessment is truly one of the most challenging aspects of personal health in my opinion. The process of clearly defining my priorities and realigning my actions and decisions with them has been equal parts exciting and terrifying.

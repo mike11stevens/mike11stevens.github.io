@@ -29,7 +29,7 @@ description: ''
 url: https://mike11stevens.github.io
 baseurl: 
 repository: mike11stevens/mike11stevens.github.io
-teaser: 
+teaser: /assets/images/500x300.png
 logo: 
 masthead_title: 
 words_per_minute: 200

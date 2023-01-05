@@ -5,6 +5,13 @@ tags:
 - career
 - reflection
 - productivity
+- time management
+- priorities
+header:
+  teaser: /assets/images/hours_500x300.png
+  image: /assets/images/hours_1200x400.png
+  caption: "Photo credit: [**@alschim**](https://unsplash.com/@alschim)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 ---
 
 I repeatedly find myself reminding… myself… that everyone has 24 hours in a day. Everyone. Every one. Please feel free to slap me if I say “I don’t have time”… because **I DO. WE ALL DO.**

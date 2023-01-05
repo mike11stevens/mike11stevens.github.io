@@ -25,7 +25,7 @@ One thought that sticks with me through the years and I keep in mind when consid
 
 [James 4:2–3 New International Version (NIV)](https://www.biblegateway.com/passage/?search=James%204:2-3)
 
-2 You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask God. 3 When you ask, you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.
+> 2 You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask God. 3 When you ask, you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.
 
 The full context of the passage is not as relevant to me as its practical application. The Great One, Wayne Gretzky, is commonly attributed with the quote “You miss 100% of the shots you don’t take.” I personally prefer The Office’s Michael Scott quoting that quote.
 

@@ -16,7 +16,7 @@ defaults:
     layout: single
     author_profile: true
     read_time: true
-    comments: 
+    comments: true
     share: true
     related: true
     show_date: true
@@ -34,9 +34,9 @@ logo:
 masthead_title: 
 words_per_minute: 200
 comments:
-  provider: 
+  provider: disqus
   disqus:
-    shortname: 
+    shortname: vampireworkday
   discourse:
     server: 
   facebook:

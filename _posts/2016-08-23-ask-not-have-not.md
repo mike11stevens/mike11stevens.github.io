@@ -6,7 +6,7 @@ tags:
 - reflection
 header:
   teaser: /assets/images/yoda_500x300.png
-  image: /assets/images/yoda_1200x400/png
+  image: /assets/images/yoda_1200x400.png
   caption: "Photo credit: [**@nadir_syzygy**](https://unsplash.com/@nadir_syzygy)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 

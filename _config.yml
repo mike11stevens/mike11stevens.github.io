@@ -107,7 +107,8 @@ author:
   links:
   - label: LinkedIn
     icon: fab fa-fw fa-linkedin
-    url: https://linkedin.com/in/mikestevens- label: Email
+    url: https://linkedin.com/in/mikestevens
+  - label: Email
     icon: fas fa-fw fa-envelope-square
     url: mailto:mike@vampireworkday.com
   - label: Website

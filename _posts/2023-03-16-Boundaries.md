@@ -1,5 +1,5 @@
 ---
-title: The Power of Priorities Boundaries: My New Journey Guided by Wisdom of the Past
+title: My New Journey Guided by Wisdom of the Past
 tags: 
   - reflection
 header:
@@ -7,6 +7,7 @@ header:
   image: /assets/images/newish_1200x400.png
   caption: "Photo credit: [**@immorenovation**](https://unsplash.com/@immorenovation)" # "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
+#The Power of Priorities Boundaries
 
 Working in a chaotic organization can be both mentally and physically taxing. The constant barrage of random tasking from multiple levels of the organization, coupled with rapid iteration, ambiguity, and the expectation that work is its own reward can leave individuals feeling overwhelmed and burnt out.
 

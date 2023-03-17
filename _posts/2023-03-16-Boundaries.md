@@ -33,11 +33,17 @@ After some reflection, I realized that I needed to establish healthier boundarie
 I identified the steps I needed to take to get back on track and then summarized them in an email to my direct managers:
 
 >"I’ve recently made some relatively major adjustments to my approach to working hours in an effort to improve. I perceive it will have an impact in my availability and response times, so I want to over-share in case there is any concern that something else is going on. I’m fine, just need some more healthy boundaries to sustain.
-
+>
 >- Working Hours - changed my working hours to 7:30 AM – 6:00 PM Mon-Fri in Outlook and set a recurring “Out of Office” block for the opposite
 >- 24/7 access – I’ve removed Outlook and Teams clients from my mobile phone
 >- Focus Time – made my peace with “No meeting Fridays”… switching my focus on keeping Mondays open for work to “catch up” from previous week, plan out work and priorities for upcoming week, and generally remember what work is like after a (hopefully) disconnected weekend(!)
 >- Year End Downtime – I’m planning on taking 1 Dec – 15 Jan off at slow year end time to ‘recharge’. Currently working on coverage plan with my team to make it as smooth as possible. I’m hopeful that it’ll be an opportunity to reshape daily habits and get some quality ‘think time’
+>
+>I’ll be looking to you to keep working on stable top 3-5 priority list ... and for coaching on how to delegate workloads out to the team. As we’ve discussed, this is an immediate improvement area for me to scale impact and to provide the team more opportunities to grow and develop.
+>
+>Thanks for the continued support and guidance,
+> 
+>Mike
 
 # Results so far
 These changes were not easy, but they were necessary. Since then, my life at work and home has improved significantly. By slowing down and reevaluating my guardrails and boundaries, I was able to reprioritize my time and approach to work/life balance.

@@ -20,9 +20,13 @@ Like to the Greeks and Romans... I looked to the Stoics for some insight. These 
 
 >"If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it; and this you have the power to revoke at any moment." - Marcus Aurelius
 
->"If you want to improve, be content to be thought foolish and stupid." - Epictetus
+>"You could leave life right now. Let that determine what you do and say and think." - Marcus Aurelius
 
->"No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have." - Epictetus
+>"What is the point of having long life if we do not use it to prioritize what is important?" - Musonius Rufus
+
+>"You cannot pursue two goals at once. Do not try to do everything at once. Be selective with your battles." - Zeno of Citium
+
+>"If you want to improve, be content to be thought foolish and stupid." - Epictetus
 
 ### Making it real
 After some reflection, I realized that I needed to establish healthier boundaries in my life to regain some sanity. So, I took action. 

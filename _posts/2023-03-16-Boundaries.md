@@ -1,5 +1,5 @@
 ---
-title: My New Journey Guided by Wisdom of the Past
+title: My NEW Journey Guided by OLD Wisdom
 tags: 
   - reflection
 header:

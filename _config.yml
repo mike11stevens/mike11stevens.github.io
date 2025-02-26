@@ -192,7 +192,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: 
-paginate: 3
+paginate: 7
 paginate_path: "/page:num/"
 plugins:
 - jekyll-paginate
